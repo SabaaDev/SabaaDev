@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">Saba</h1>
-<p align="center"> Js, Py, Go</p>
+<p align="center"> Js</p>
 <a href="https://github.com/Qoft">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SabaaDev&color=blueviolet&&label=so many peopople what!" alt="Profile Views">
