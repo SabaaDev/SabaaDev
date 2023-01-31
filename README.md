@@ -2,7 +2,7 @@
 
 <h1 align="center">Saba</h1>
 <p align="center"> Js</p>
-<a href="https://github.com/Qoft">
+<a href="https://github.com/SabaaDev">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SabaaDev&color=blueviolet&&label=Github Views" alt="Profile Views">
   </p>
@@ -14,7 +14,7 @@
 <p align="center">
   <br />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Qoft&theme=nord&margin-w=15&margin-h=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SabaaDev&theme=nord&margin-w=15&margin-h=1&column=7" />
 </p>
 
 ![Footer](./footer.png)
