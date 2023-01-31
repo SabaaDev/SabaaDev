@@ -4,7 +4,7 @@
 <p align="center"> Js</p>
 <a href="https://github.com/Qoft">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SabaaDev&color=blueviolet&&label=so many peopople what!" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=SabaaDev&color=blueviolet&&label=Github Views" alt="Profile Views">
   </p>
 </a>
 <p align="center">
